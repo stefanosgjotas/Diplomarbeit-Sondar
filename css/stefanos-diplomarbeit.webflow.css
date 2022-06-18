@@ -1,14 +1,3 @@
-.w-backgroundvideo-backgroundvideoplaypausebutton:focus-visible {
-  border-bottom-left-radius: 50%;
-  border-bottom-right-radius: 50%;
-  border-top-left-radius: 50%;
-  border-top-right-radius: 50%;
-  outline-style: solid;
-  outline-width: 2px;
-  outline-offset: 2px;
-  outline-color: #3b79c3;
-}
-
 body {
   font-family: Montserrat, sans-serif;
   color: #141414;
@@ -2093,73 +2082,5 @@ img {
     font-size: 0.8em;
     line-height: 1em;
   }
-}
-
-#w-node-_5de9bbf6-9361-616f-dae9-b3b95ea10b91-a7ee91da {
-  -ms-grid-column: span 1;
-  grid-column-start: span 1;
-  -ms-grid-column-span: 1;
-  grid-column-end: span 1;
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-}
-
-#w-node-_0b2da933-86c0-7248-0ffb-5b3519ee5289-a7ee91da {
-  -ms-grid-column: span 1;
-  grid-column-start: span 1;
-  -ms-grid-column-span: 1;
-  grid-column-end: span 1;
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-}
-
-#w-node-_23a04db7-430f-80f1-8df0-90a2a258624b-a7ee91da {
-  -ms-grid-column: span 1;
-  grid-column-start: span 1;
-  -ms-grid-column-span: 1;
-  grid-column-end: span 1;
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-}
-
-#w-node-b8ad4ce7-07b4-2483-9110-9d67a42e2a3f-a7ee91da {
-  -ms-grid-column: span 1;
-  grid-column-start: span 1;
-  -ms-grid-column-span: 1;
-  grid-column-end: span 1;
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-}
-
-#w-node-d52a048b-5266-0c4d-d957-adf6afcdc434-a7ee91da {
-  -ms-grid-column: span 1;
-  grid-column-start: span 1;
-  -ms-grid-column-span: 1;
-  grid-column-end: span 1;
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-  -ms-grid-row-align: auto;
-  align-self: auto;
-}
-
-#w-node-_457a2b3e-8818-29e4-7426-cc656585f25d-a7ee91da {
-  -ms-grid-column: span 1;
-  grid-column-start: span 1;
-  -ms-grid-column-span: 1;
-  grid-column-end: span 1;
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
 }
 
